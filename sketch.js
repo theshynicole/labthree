@@ -11,7 +11,7 @@
  }
 
  function vidLoad() {
-   vid.loop();
+   vid.loop(1);
    vid.volume(0);
    //No sound cause the audio is my dad telling my cat to not eat my fries lol
  }
